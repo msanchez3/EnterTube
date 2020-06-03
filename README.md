@@ -128,6 +128,8 @@ John Schlick
  
 Rus Carroll
 
+bhaktaraz bhata
+
 @davegandy - http://fontawesome.io
 
 Tambien hay licencias de aplicaciones, como facebook,boostrap,etc..
