@@ -25,6 +25,8 @@ Nada más entrar estan las siguientes carpetas:
         
 4. assets
     - import - Contiene mayormente programacion descargada de otros creadores de codigo
+    
+    
     - includes
           - app_start - Funciones, objetos y configuraciones para que funcione la pagina
           - context_data - ""
