@@ -22,16 +22,16 @@ Nada más entrar estan las siguientes carpetas:
         - api-v1.0-config - Crea unas arrays con los objetos que necesitaremos en la pagina
         - plataform
         - api-v1.0 - carga la configuracion de movil o descktop dependiendo de lo que detecte
-4. assets
-        - import - Contiene mayormente programacion descargada de otros creadores de codigo
         
-        - includes
-               - app_start - Funciones, objetos y configuraciones para que funcione la pagina
-               - context_data - ""
-               - functions_general - ""
-               - functions_one - ""
-               - phpMailer_config - "" 
-               - tables - ""
+4. assets
+    - import - Contiene mayormente programacion descargada de otros creadores de codigo
+    - includes
+          - app_start - Funciones, objetos y configuraciones para que funcione la pagina
+          - context_data - ""
+          - functions_general - ""
+          - functions_one - ""
+          - phpMailer_config - "" 
+          - tables - ""
         - langs - contiene las lenguas descargadas
         - init - ejecuta una funcion, necesitando cierta configuracion, las cuales son "tablas","funciones_general","funciones_one"
         
