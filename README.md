@@ -5,7 +5,7 @@ El orden de las carpetas es el siguiente:
 
 Nada más entrar estan las siguientes carpetas:
 
-1.admin. pan.
+1. admin. pan.
       _css - temas para el panel del admin
       _js - java de las paginas del admin
       _pages - Paginas del panel del admin
@@ -14,15 +14,15 @@ Nada más entrar estan las siguientes carpetas:
       _index - acceso al admin panel
       _Licencia - licencia de la pagina
       
-2.ajax.
+2. ajax.
       _archivos PHP
-3.app_api
-      _v1.0
-        _assets
-        _api-v1.0-config - Crea unas arrays con los objetos que necesitaremos en la pagina
-        _plataform
-        _api-v1.0 - carga la configuracion de movil o descktop dependiendo de lo que detecte
-4.assets
+3. app_api
+      - v1.0
+        - assets
+        - api-v1.0-config - Crea unas arrays con los objetos que necesitaremos en la pagina
+        - plataform
+        - api-v1.0 - carga la configuracion de movil o descktop dependiendo de lo que detecte
+4. assets
         _import - Contiene mayormente programacion descargada de otros creadores de codigo
         _includes
                _app_start - Funciones, objetos y configuraciones para que funcione la pagina
@@ -34,10 +34,10 @@ Nada más entrar estan las siguientes carpetas:
         _langs - contiene las lenguas descargadas
         _init - ejecuta una funcion, necesitando cierta configuracion, las cuales son "tablas","funciones_general","funciones_one"
         
-5.install
-        _index - configuracion de abse de datos
-6.nodejs
-        _messages
+5. install
+        - index - configuracion de abse de datos
+6. nodejs
+         - messages
               _incomig - pagina HTML
               _Outgoing - ""
               _user_list - ""
@@ -75,6 +75,7 @@ wo_login - codigo que carga los usuarios
 
 
 /-----------------------------------------------------------------------------------------------------------------/
+
 Para terminar de explicar como esta montado, me gustaria nombrar a todos los creadores de codigo que han dado codigo para llevar acabo este proyecto.
 
 
