@@ -24,6 +24,7 @@ Nada más entrar estan las siguientes carpetas:
         - api-v1.0 - carga la configuracion de movil o descktop dependiendo de lo que detecte
 4. assets
         - import - Contiene mayormente programacion descargada de otros creadores de codigo
+        
         - includes
                - app_start - Funciones, objetos y configuraciones para que funcione la pagina
                - context_data - ""
@@ -57,20 +58,35 @@ Nada más entrar estan las siguientes carpetas:
 Seguidos con los siguientes archivos (adjunto la explicacionde lo que son a continuacion de su nombre):
 
 .gitgnore - direcciones de archivos
+
 .htacces - Fichero que contiene directivas
+
 admincp - archivo para cargar el panel de control de admin
+
 ajax - Carga ciertos aspectos de la pagina
+
 api - Comprueba si existen API's
+
 config - Archivo para la creacion de la base de datos de EnterTube
+
 entertube - Base de datos de EnterTube (tablas) (los palabras estan sacadas de otro repositorio)
+
 import - Carga procesos de PHP
+
 index - Carga la pagina princiap de la pagina
+
 nginx - Marca la direccion de los datos.
+
 package - Archivo que añade datos de la pagina
+
 package-lock - Registro de packetes
+
 robots - opciones de configuracion
+
 social-login - codigo para conectarse con cuentas de otras aplicaciones.
+
 wo_login - codigo que carga los usuarios
+
 
 
 
