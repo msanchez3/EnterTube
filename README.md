@@ -136,5 +136,11 @@ Marcus Bointon - <phpmailer@synchromedia.co.uk>
 
 Manuel Reinhard -  <manu@sprain.ch>
 
+Konstantin Riabitsev <icon@linux.duke.edu>
+
+Jim Jagielski <jim@jaguNET.com / jimjag@gmail.com>
+
+
+
 Tambien hay licencias de aplicaciones, como facebook,boostrap,etc..
 
