@@ -6,6 +6,7 @@ El orden de las carpetas es el siguiente:
 Nada más entrar estan las siguientes carpetas:
 
 1. admin. pan.
+    - archivos
       - css - temas para el panel del admin
       - js - java de las paginas del admin
       - pages - Paginas del panel del admin
@@ -14,7 +15,8 @@ Nada más entrar estan las siguientes carpetas:
       - index - acceso al admin panel
       - Licencia - licencia de la pagina
       
-2. ajax.
+2. ajax
+    - archivos
       - archivos PHP
 3. app_api
       - v1.0
@@ -25,33 +27,34 @@ Nada más entrar estan las siguientes carpetas:
         
 4. assets
     - import - Contiene mayormente programacion descargada de otros creadores de codigo
-    
-    
+        
     - includes
-          - app_start - Funciones, objetos y configuraciones para que funcione la pagina
-          - context_data - ""
-          - functions_general - ""
-          - functions_one - ""
-          - phpMailer_config - "" 
-          - tables - ""
+        - app_start - Funciones, objetos y configuraciones para que funcione la pagina
+        - context_data - ""
+        - functions_general - ""
+        - functions_one - ""
+        - phpMailer_config - "" 
+        - tables - ""
         - langs - contiene las lenguas descargadas
         - init - ejecuta una funcion, necesitando cierta configuracion, las cuales son "tablas","funciones_general","funciones_one"
         
 5. install
         - index - configuracion de abse de datos
 6. nodejs
-         - messages
-              - incomig - pagina HTML
-              - Outgoing - ""
-              - user_list - ""
-        - mysql
-              - DB - carga conexion con la base de datos
+     - messages
+          - incomig - pagina HTML
+           - Outgoing - ""
+           - user_list - ""
+      - mysql
+           - DB - carga conexion con la base de datos
+      - archivos
         - .htaccess - determina una regla
         - app_start - ajustes para la conexion con la base de datos
         - config - configuracion
         - functions - crea funcionciones a partir de datos recogidos de otros archivos
         - server - carga datos a la DB
 7. sources
+      - archivos
         - MULTIPLES ARCHIVOS PHP
 8. thems - Diseño de la web
 
