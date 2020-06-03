@@ -132,5 +132,9 @@ bhaktaraz bhata
 
 @davegandy - http://fontawesome.io
 
+Marcus Bointon - <phpmailer@synchromedia.co.uk>
+
+Manuel Reinhard -  <manu@sprain.ch>
+
 Tambien hay licencias de aplicaciones, como facebook,boostrap,etc..
 
