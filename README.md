@@ -1,5 +1,5 @@
 # EnterTube
-En este archivo voy a descriBir las piezas de mi proyecto, para que cualquiera que lo lea sepa de que trata cada parte.
+En este archivo voy a describir las piezas de mi proyecto, para que cualquiera que lo lea sepa de que trata cada parte.
 
 Subo 2 RAR porque es mucho contenido que tiene almacenado y no se puede subir rapidamente al GitHub
 El orden de las carpetas es el siguiente:
