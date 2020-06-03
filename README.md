@@ -5,17 +5,17 @@ El orden de las carpetas es el siguiente:
 
 Nada más entrar estan las siguientes carpetas:
 
-admin. pan.
-      css - temas para el panel del admin
-      js - java de las paginas del admin
-      pages - Paginas del panel del admin
-      plugins - "Aplicaciones de la pagina" (animated-css,bootstrap,jquery,etc...) <-- descargados de las paginas oficiales
-      autolad - autoload de la pagina del admin
-      index - acceso al admin panel
-      Licencia - licencia de la pagina
+1.admin. pan.
+      -css - temas para el panel del admin
+      -js - java de las paginas del admin
+      -pages - Paginas del panel del admin
+      -plugins - "Aplicaciones de la pagina" (animated-css,bootstrap,jquery,etc...) <-- descargados de las paginas oficiales
+      -autolad - autoload de la pagina del admin
+      -index - acceso al admin panel
+      -Licencia - licencia de la pagina
       
-ajax.
-      archivos PHP
+2.ajax.
+      -archivos PHP
 app_api
       v1.0
         assets
