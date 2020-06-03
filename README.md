@@ -60,7 +60,7 @@ Nada más entrar estan las siguientes carpetas:
 
 9. upload - fotos del diseño
 
-Seguidos con los siguientes archivos (adjunto la explicacionde lo que son a continuacion de su nombre):
+_Seguidos con los siguientes archivos (adjunto la explicacionde lo que son a continuacion de su nombre):_
 
 .gitgnore - direcciones de archivos
 
