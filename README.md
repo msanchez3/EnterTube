@@ -6,16 +6,16 @@ El orden de las carpetas es el siguiente:
 Nada más entrar estan las siguientes carpetas:
 
 1. admin. pan.
-      _css - temas para el panel del admin
-      _js - java de las paginas del admin
-      _pages - Paginas del panel del admin
-      _plugins - "Aplicaciones de la pagina" (animated-css,bootstrap,jquery,etc...) <-- descargados de las paginas oficiales
-      _autolad - autoload de la pagina del admin
-      _index - acceso al admin panel
-      _Licencia - licencia de la pagina
+      - css - temas para el panel del admin
+      - js - java de las paginas del admin
+      - pages - Paginas del panel del admin
+      - plugins - "Aplicaciones de la pagina" (animated-css,bootstrap,jquery,etc...) <-- descargados de las paginas oficiales
+      - autolad - autoload de la pagina del admin
+      - index - acceso al admin panel
+      - Licencia - licencia de la pagina
       
 2. ajax.
-      _archivos PHP
+      - archivos PHP
 3. app_api
       - v1.0
         - assets
@@ -23,35 +23,36 @@ Nada más entrar estan las siguientes carpetas:
         - plataform
         - api-v1.0 - carga la configuracion de movil o descktop dependiendo de lo que detecte
 4. assets
-        _import - Contiene mayormente programacion descargada de otros creadores de codigo
-        _includes
-               _app_start - Funciones, objetos y configuraciones para que funcione la pagina
-               _context_data - ""
-               _functions_general - ""
-               _functions_one - ""
-               _phpMailer_config - "" 
-               _tables - ""
-        _langs - contiene las lenguas descargadas
-        _init - ejecuta una funcion, necesitando cierta configuracion, las cuales son "tablas","funciones_general","funciones_one"
+        - import - Contiene mayormente programacion descargada de otros creadores de codigo
+        - includes
+               - app_start - Funciones, objetos y configuraciones para que funcione la pagina
+               - context_data - ""
+               - functions_general - ""
+               - functions_one - ""
+               - phpMailer_config - "" 
+               - tables - ""
+        - langs - contiene las lenguas descargadas
+        - init - ejecuta una funcion, necesitando cierta configuracion, las cuales son "tablas","funciones_general","funciones_one"
         
 5. install
         - index - configuracion de abse de datos
 6. nodejs
          - messages
-              _incomig - pagina HTML
-              _Outgoing - ""
-              _user_list - ""
-        _mysql
-              _DB - carga conexion con la base de datos
-        _.htaccess - determina una regla
-        _app_start - ajustes para la conexion con la base de datos
-        _config - configuracion
-        _functions - crea funcionciones a partir de datos recogidos de otros archivos
-        _server - carga datos a la DB
-7.sources
-        _MULTIPLES ARCHIVOS PHP
-8.thems - Diseño de la web
-9.upload - fotos del diseño
+              - incomig - pagina HTML
+              - Outgoing - ""
+              - user_list - ""
+        - mysql
+              - DB - carga conexion con la base de datos
+        - .htaccess - determina una regla
+        - app_start - ajustes para la conexion con la base de datos
+        - config - configuracion
+        - functions - crea funcionciones a partir de datos recogidos de otros archivos
+        - server - carga datos a la DB
+7. sources
+        - MULTIPLES ARCHIVOS PHP
+8. thems - Diseño de la web
+
+9. upload - fotos del diseño
 
 Seguidos con los siguientes archivos (adjunto la explicacionde lo que son a continuacion de su nombre):
 
