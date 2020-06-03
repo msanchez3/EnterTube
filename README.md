@@ -103,6 +103,8 @@ Para terminar de explicar como esta montado, me gustaria nombrar a todos los cre
 
 *Code creators:*
 
+Michael Sánchez - https://github.com/msanchez3
+
 Josh Campbell - https://github.com/joshcam
 
 Alexander V. Butenko - http://smarttechdo.com
@@ -115,7 +117,9 @@ HybridAuth - http://github.com/hybridauth/hybridauth
 
 Osman Üngür - http://github.com/o/sitemap-php
 
-Nils Adermann - <naderman@naderman.de>, Jordi Boggiano - <j.boggiano@seld.be>
+Nils Adermann - <naderman@naderman.de>
+
+Jordi Boggiano - <j.boggiano@seld.be>
 
 S.C. Chen <me578022@gmail.com>
 
